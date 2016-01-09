@@ -1,0 +1,28 @@
+name: aottke
+favicon: null
+layout_spectrum: 0.9526418154127896
+typography_spectrum: 0.7411909552756697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8554267522413284
+  lightness: 0.3506500800140202
+  saturation: 0.6106513564009219
+  rhythmicContrast: 0.34953145054169
+purpose: []
